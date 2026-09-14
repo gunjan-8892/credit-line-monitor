@@ -1,12 +1,15 @@
 {
+  "framework": null,
+  "buildCommand": "",
+  "outputDirectory": ".",
   "redirects": [
     {
-      "source": "/login",
+      "source": "/",
       "destination": "https://claude.ai/code/artifact/fb82f4d8-ec09-4b28-9039-72cfa38026cd",
       "permanent": false
     },
     {
-      "source": "/",
+      "source": "/login",
       "destination": "https://claude.ai/code/artifact/fb82f4d8-ec09-4b28-9039-72cfa38026cd",
       "permanent": false
     },
