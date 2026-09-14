@@ -1,22 +1,3 @@
 {
-  "framework": null,
-  "buildCommand": "",
-  "outputDirectory": ".",
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "https://claude.ai/code/artifact/fb82f4d8-ec09-4b28-9039-72cfa38026cd",
-      "permanent": false
-    },
-    {
-      "source": "/login",
-      "destination": "https://claude.ai/code/artifact/fb82f4d8-ec09-4b28-9039-72cfa38026cd",
-      "permanent": false
-    },
-    {
-      "source": "/(.*)",
-      "destination": "https://claude.ai/code/artifact/fb82f4d8-ec09-4b28-9039-72cfa38026cd",
-      "permanent": false
-    }
-  ]
+    "framework": "nextjs"
 }
